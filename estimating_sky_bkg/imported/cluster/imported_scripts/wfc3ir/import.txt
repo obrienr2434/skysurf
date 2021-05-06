@@ -1,0 +1,19 @@
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/percentileclip_plots_only_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/percentileclip_quads_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/percentileclip_stacked_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/percentileclip_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/run_estimate_gradient_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/run_inspection_plots_only_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/run_percentileclip_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/run_quads_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/run_stacked_wfc3ir.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/ 
+
+rdo@cluster.sese.asu.edu:~/python/sky_calc/SB_scripts_wfc3ir/split_image.py ~/Desktop/skysurf/estimating_sky_bkg/imported_scripts/
